@@ -1,1 +1,1 @@
-# Example folder structure of interferograms downloaded from ASF Vertex (HyP3)
+# Example interferogram downloaded from ASF Vertex (HyP3), after clipping
